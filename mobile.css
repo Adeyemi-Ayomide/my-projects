@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 375px;
+    margin: auto;
+}
+#showcase{
+    background-color:  hsl(0, 0%, 100%);
+    width:  68%;
+    padding: 13px;
+    border-radius: 15px;
+    margin: 0;
+    margin-top: 20vh;
+    margin-left: 8vh;
+   
+}
